@@ -6,9 +6,10 @@ import {
   Wrapper,
   Warning,
   Suggestion,
-  Image,
   Message,
 } from './styles';
+
+import Lottie from '../../components/Lottie';
 
 export default function Requests() {
   const [requests, setRequests] = useState(null);
@@ -19,7 +20,7 @@ export default function Requests() {
         <View />
       ) : (
         <Wrapper>
-          <Image />
+          <Lottie src={"panela"} />
           <Warning>Nenhum pedido em andamento</Warning>
           <Message>
             <Suggestion>Que tal experimentar um lugar novo?</Suggestion>

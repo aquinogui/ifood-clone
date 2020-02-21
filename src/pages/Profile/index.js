@@ -32,7 +32,7 @@ export default function Profile({ navigation }) {
             size={20}
           />
         </Option>
-        <Option onPress={() => navigation.navigate('Wallet')}>
+        {/*<Option onPress={() => navigation.navigate('Wallet')}>
           <MaterialCommunityIcons
             name="wallet-outline"
             size={35}
@@ -47,7 +47,7 @@ export default function Profile({ navigation }) {
             color="#999999"
             size={20}
           />
-        </Option>
+        </Option>*/}
         <Option onPress={() => {}}>
           <MaterialCommunityIcons
             name="ticket-outline"

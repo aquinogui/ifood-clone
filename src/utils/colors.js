@@ -1,3 +1,3 @@
-const red = '#ff6666';
+const red = '#ff4d00';
 
 export { red };

@@ -82,7 +82,7 @@ const Routes = createAppContainer(
                       backgroundColor: '#fff',
                     },
                     indicatorStyle: {
-                      backgroundColor: 'red',
+                      backgroundColor: '#ff4d00',
                     },
                   },
                 }
@@ -116,7 +116,7 @@ const Routes = createAppContainer(
     },
     {
       tabBarOptions: {
-        activeTintColor: '#333',
+        activeTintColor: '#ff4d00',
         inactiveTintColor: 'gray',
       },
     }

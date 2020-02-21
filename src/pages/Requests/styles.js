@@ -1,19 +1,10 @@
 import styled from 'styled-components/native';
 
-import noitens from '../../assets/noitens.png';
-
 export const Container = styled.View`
   background: #FFF;
   flex: 1;
   align-items: center;
   justify-content: center;
-`;
-
-export const Image = styled.Image.attrs({
-  source: noitens
-})`
-  width: 250px;
-  height: 250px;
 `;
 
 export const Wrapper = styled.View``;

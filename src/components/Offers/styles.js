@@ -28,7 +28,7 @@ export const SubTitle = styled.Text`
 export const SeeMoreButton = styled.TouchableOpacity``;
 
 export const SeeMoreText = styled.Text`
-  color: red;
+  color: #ff4d00;
 `;
 
 export const OfferList = styled.ScrollView.attrs({

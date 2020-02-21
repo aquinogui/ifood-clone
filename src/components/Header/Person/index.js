@@ -31,7 +31,7 @@ function Person() {
       <ProfileButton>
         <Avatar source={{ uri: profile.avatar_url }} />
         <Info>
-          <Name>Leonardo Barbosa</Name>
+          <Name>Otavio Lamartine</Name>
           <Message>Editar perfil</Message>
         </Info>
         <MaterialIcons name="keyboard-arrow-right" size={20} color="#999999" />

@@ -9,7 +9,7 @@ export default function Address() {
   return (
     <Container>
       <AddressButton>
-        <Location>React Native, 2020</Location>
+        <Location>Leopoldino de Oliveira, 4464</Location>
         <MaterialIcons name="keyboard-arrow-down" size={20} color={red} />
       </AddressButton>
     </Container>

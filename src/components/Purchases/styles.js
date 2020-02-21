@@ -104,5 +104,5 @@ export const MenuButton = styled.TouchableOpacity`
 `;
 
 export const MenuText = styled.Text`
-  color: red;
+  color: #ff4d00;
 `;
